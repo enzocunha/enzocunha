@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 Currentily studying Computer Engineering on Universidade Federal de Goiás
+
+- 🐍 My favorite programming language is Python
+
+- 📫 Reach me from:
+<a href="https://www.linkedin.com/in/enzocunha/">🔗 Linkedin</a>
+<a href="mailto:cunha.enzo@gmail.com">📧 Email</a>
