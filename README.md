@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Enzo</h1>
-<h3 align="center">A developer from Brazil.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enzocunha&label=Profile%20views&color=0e75b6&style=flat" alt="enzocunha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzocunha" alt="enzocunha" /></a> </p>
